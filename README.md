@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yar 👋
 
-<!--
-**yars12/yars12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Systems student @ University of Washington Tacoma  
+💡 Interested in Data Science, Machine Learning, and Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** Python, Java, C/C++, SQL, JavaScript  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Data Cleaning, EDA  
+- **Visualization:** Matplotlib, Seaborn  
+- **Tools:** Git, GitHub, Jupyter Notebook, Flask, VS Code  
+
+---
+
+## 📊 Projects
+
+### ❤️ Heart Failure Prediction Model
+- Built machine learning model to predict heart failure risk  
+- Cleaned and analyzed medical dataset  
+- Visualized trends using Matplotlib & Seaborn  
+
+### 🛒 Walmart Retail Sales Analysis
+- Analyzed sales data to find trends and patterns  
+- Performed data cleaning and transformation  
+- Created visual reports  
+
+### 📚 Study Tracker Dashboard
+- Built full-stack app using Java, Flask, and SQL  
+- Tracks study progress and productivity  
+- Designed backend database  
+
+---
+
+## 📫 Contact
+- 📧 Email: shkalayar1@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/yar-shkala  
