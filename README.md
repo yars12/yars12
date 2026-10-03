@@ -2,7 +2,7 @@
 
 Computer Science student at the **University of Washington Tacoma** with a minor in **Business Data Analytics**.
 
-I am focused on **Machine Learning, Artificial Intelligence, and Data Science**, with hands-on experience building predictive models, analyzing real-world datasets, and supporting students as a Machine Learning & AI Teaching Assistant.
+I am focused on **Machine Learning, Artificial Intelligence, and Data Science**, with hands-on experience building predictive models, comparing machine learning algorithms, analyzing real-world datasets, and supporting students as a Machine Learning, AI & Data Analytics Teaching Assistant.
 
 ## Areas of Interest
 
@@ -14,21 +14,27 @@ I am focused on **Machine Learning, Artificial Intelligence, and Data Science**,
 
 ## Technical Skills
 
-- Python
-- PyTorch
-- Scikit-learn
-- Pandas
-- NumPy
-- SQL
-- Tableau
-- Power BI
-- Git/GitHub
+**Languages & Data:** Python · SQL · Java · Pandas · NumPy  
+**Machine Learning:** Scikit-learn · PyTorch · Classification · Regression · Feature Engineering · Model Evaluation  
+**Analytics & BI:** Tableau · Power BI · Excel · Data Visualization  
+**Tools:** Git · GitHub · Jupyter / Google Colab
 
-## Featured Work
+## Featured Projects
 
-- [Heart Disease Prediction](https://github.com/yars12/heart-failure-prediction) — end-to-end Logistic Regression pipeline with preprocessing and model evaluation
-- [Sorting Algorithm Performance Benchmark](https://github.com/yars12/tcss321-sorting) — Python runtime comparison of Bubble, Selection, and Insertion Sort
-- [Portfolio Website](https://yars12.github.io/) — selected projects and professional profile
+### Heart Failure Mortality Prediction
+Compared multiple classification algorithms and tuned Random Forest and SVM models to predict patient mortality outcomes. The tuned Random Forest achieved a ROC-AUC of approximately **0.906** in the completed project run.
+
+[View project](https://github.com/yars12/heart-failure-prediction)
+
+### Walmart Sales Demand Forecasting
+Built and compared regression models for weekly retail sales forecasting using date feature engineering, time-aware validation, hyperparameter tuning, and permutation importance. The tuned Random Forest achieved an R² of approximately **0.9045** in the completed project run.
+
+[View project](https://github.com/yars12/cs-portfolio)
+
+### Sorting Algorithm Performance Benchmark
+Implemented and benchmarked Bubble Sort, Selection Sort, and Insertion Sort across increasing input sizes using Python, Pandas, NumPy, and Matplotlib.
+
+[View project](https://github.com/yars12/tcss321-sorting)
 
 ## Currently
 
