@@ -21,6 +21,11 @@ I am focused on **Machine Learning, Artificial Intelligence, and Data Science**,
 
 ## Featured Projects
 
+### PyTorch CIFAR-10 Image Classification
+Built an end-to-end deep learning image-classification pipeline with PyTorch, including a custom CNN, an optional ResNet-18 model, data augmentation, early stopping, checkpointing, learning-rate scheduling, and confusion-matrix evaluation.
+
+[View project](https://github.com/yars12/pytorch-cifar10-image-classification)
+
 ### Heart Failure Mortality Prediction
 Compared multiple classification algorithms and tuned Random Forest and SVM models to predict patient mortality outcomes. The tuned Random Forest achieved a ROC-AUC of approximately **0.906** in the completed project run.
 
@@ -30,11 +35,6 @@ Compared multiple classification algorithms and tuned Random Forest and SVM mode
 Built and compared regression models for weekly retail sales forecasting using date feature engineering, time-aware validation, hyperparameter tuning, and permutation importance. The tuned Random Forest achieved an R² of approximately **0.9045** in the completed project run.
 
 [View project](https://github.com/yars12/walmart-sales-demand-forecasting)
-
-### Sorting Algorithm Performance Benchmark
-Implemented and benchmarked Bubble Sort, Selection Sort, and Insertion Sort across increasing input sizes using Python, Pandas, NumPy, and Matplotlib.
-
-[View project](https://github.com/yars12/sorting-algorithm-performance-benchmark)
 
 ## Currently
 
