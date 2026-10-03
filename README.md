@@ -1,48 +1,34 @@
-# Hi, I'm Yar 👋
+# Hi, I'm Yar Shkala 👋
 
-🎓 Computer Science & Systems Student @ University of Washington Tacoma
-💡 Interested in Data Science, Machine Learning, and Software Development
-🚀 Passionate about building real-world projects and solving problems with data
+Computer Science student at the University of Washington Tacoma with a minor in Business Data Analytics.
 
----
+I am focused on Machine Learning, Artificial Intelligence, and Data Science, with hands-on experience building predictive models, analyzing real-world datasets, and supporting students as a Machine Learning & AI Teaching Assistant.
 
-## 🛠️ Skills
+## Areas of Interest
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Predictive Modeling
+- Deep Learning
 
-**Languages:** Python, Java, C/C++, SQL, JavaScript
-**Data Science:** Pandas, NumPy, Scikit-learn, Data Cleaning, EDA
-**Visualization:** Matplotlib, Seaborn
-**Tools:** Git, GitHub, Jupyter Notebook, Flask, VS Code
+## Technical Skills
+- Python
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+- SQL
+- Tableau
+- Power BI
+- Git/GitHub
 
----
+## Featured Work
+- Heart Failure Prediction
+- Credit Card Fraud Detection
+- Sales Demand Forecasting
+- Machine Learning Labs & Projects
 
-## 📊 Projects
-
-### ❤️ Heart Failure Prediction Model
-
-* Built a machine learning model to predict heart failure risk
-* Performed data cleaning and exploratory data analysis (EDA)
-* Identified key features such as age, cholesterol, and blood pressure
-* Achieved **82% accuracy** using Logistic Regression
-
----
-
-### 🛒 Walmart Retail Sales Analysis
-
-* Analyzed retail sales data to identify trends and patterns
-* Cleaned and transformed raw data for analysis
-* Created visual reports using Matplotlib and Seaborn
-
----
-
-### 📚 Study Tracker Dashboard
-
-* Built a full-stack application using Java, Flask, and SQL
-* Designed backend database to track study progress
-* Helped improve productivity and organization
-
----
-
-## 📫 Contact
-
-📧 Email: [shkalyar1@gmail.com](mailto:shkalyar1@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/yar-shkala
+## Currently
+🎓 B.A. Computer Science and Systems — University of Washington Tacoma  
+🤖 Machine Learning, AI & Data Analytics Teaching Assistant — Skillspire  
+🚀 Building toward a career in Machine Learning and AI Engineering
