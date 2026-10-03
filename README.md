@@ -34,7 +34,7 @@ Built and compared regression models for weekly retail sales forecasting using d
 ### Sorting Algorithm Performance Benchmark
 Implemented and benchmarked Bubble Sort, Selection Sort, and Insertion Sort across increasing input sizes using Python, Pandas, NumPy, and Matplotlib.
 
-[View project](https://github.com/yars12/tcss321-sorting)
+[View project](https://github.com/yars12/sorting-algorithm-performance-benchmark)
 
 ## Currently
 
