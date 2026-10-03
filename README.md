@@ -29,7 +29,7 @@ Compared multiple classification algorithms and tuned Random Forest and SVM mode
 ### Walmart Sales Demand Forecasting
 Built and compared regression models for weekly retail sales forecasting using date feature engineering, time-aware validation, hyperparameter tuning, and permutation importance. The tuned Random Forest achieved an R² of approximately **0.9045** in the completed project run.
 
-[View project](https://github.com/yars12/cs-portfolio)
+[View project](https://github.com/yars12/walmart-sales-demand-forecasting)
 
 ### Sorting Algorithm Performance Benchmark
 Implemented and benchmarked Bubble Sort, Selection Sort, and Insertion Sort across increasing input sizes using Python, Pandas, NumPy, and Matplotlib.
